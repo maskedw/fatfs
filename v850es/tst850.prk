@@ -1,0 +1,14 @@
+[ProjectManager]
+FrameMax=1
+FrameX=66
+FrameY=66
+FrameCX=960
+FrameCY=750
+OpenFile1=main.c,0,271,154,1030,910,24,7,24,0
+OpenFile2=ProjectWindow
+PrjPos=0,1,579,0,268
+OpenFile3=OutputWindow
+OutputPos=0,14,522,858,1556
+ActivePRJ=tst850.prj
+[ProjectWindow]
+ProjectWindowDispType=0
